@@ -1,0 +1,3 @@
+running
+going
+coming
